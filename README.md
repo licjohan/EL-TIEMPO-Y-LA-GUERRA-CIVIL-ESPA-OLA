@@ -7,7 +7,7 @@
 ***
 **Hipótesis**: debido a la conflictividad ya existente durante inicios del siglo XX entre el Partido Liberal y el Partido Conservador, es muy probable que el estallido de la guerra en España incidiera de manera notable en la actitud bélica de ciertos sectores políticos de Colombia
 * * *
-[Inserte imagen aquí]
+![Inserte imagen aquí](https://raw.githubusercontent.com/licjohan/EL-TIEMPO-Y-LA-GUERRA-CIVIL-ESPA-OLA/main/PNG1.png)
 
 Con un título en primera plana y en mayúscula, el periodico El Tiempo en su edición del 1 de abril de 1939 aseveraba **_“COLOMBIA RECONOCE AL GENERAL FRANCO”_**, acto seguido transcribía el pronunciamiento oficial del Ministerio de Relaciones Internacionales, en el que se hacía explícito el apoyo al General Francisco Franco y se dictaminaban las decisiones diplomaticas consiguientes, a la vez que se invitaba a los demas paises de la región a _“adoptar procedimientos uniformes o análogos”._
 
