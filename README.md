@@ -1,13 +1,10 @@
 # **Percepción del final de la *Guerra Civil Española* en el periódico colombiano El Tiempo en abril de 1939**
 ### **Por: Saul Figuera & Johan Guerrero* 
 ___
-
 **Pregunta problema**: ¿De qué forma se percibió el final de la *Guerra Civil Española* en Colombia en abril de 1939 desde los periódicos colombianos que registraron los acontecimientos?
 ___
-
 **Objetivo**: Indagar las percepciones sobre la finalización de la *Guerra Civil Española* en abril de 1939 presente en los periódicos colombianos que registraron los acontecimientos.
 ___
-
 **Hipótesis**: debido a la conflictividad ya existente durante inicios del siglo XX entre el Partido Liberal y el Partido Conservador, es muy probable que el estallido de la guerra en España incidiera de manera notable en la actitud bélica de ciertos sectores políticos de Colombia
 ___
 
