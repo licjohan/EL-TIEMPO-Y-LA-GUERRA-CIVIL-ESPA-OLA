@@ -2,7 +2,7 @@
 ### **Por: Saul Figuera & Johan Guerrero* 
 ___
 **Pregunta problema**: ¿De qué forma se percibió el final de la *Guerra Civil Española* en Colombia en abril de 1939 desde los periódicos colombianos que registraron los acontecimientos?
----
+___
 **Objetivo**: Indagar las percepciones sobre la finalización de la *Guerra Civil Española* en abril de 1939 presente en los periódicos colombianos que registraron los acontecimientos.
 
 ---
